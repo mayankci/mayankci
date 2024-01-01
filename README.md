@@ -17,7 +17,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/bb64b34d04a01cfa79658e2704085740d88e209c21905d0f5b55ebc87a83aa3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="python" width="110" height="30"/>
   </a>
-
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/89c0c631bae986c489a975ba0e7042d85633bc0f1dd4030c3fa9163db0f9b57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465" alt="mysql" width="110" height="30"/>
