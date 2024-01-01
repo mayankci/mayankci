@@ -19,7 +19,7 @@
   </a>
 
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/89c0c631bae986c489a975ba0e7042d85633bc0f1dd4030c3fa9163db0f9b57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465" alt="mysql" width="60" height="30"/>
   </a> 
 
