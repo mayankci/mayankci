@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="center">Goal is to turn raw data into information</h3>
 
-- 💬 Ask me about **SQL, Python, Power BI, Tableau**
+<h2>1. Profile</h2>
+<p>I am Mayank Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment.</p>
+
+<h2>About Me</h2>
 
 - 📫 How to reach me **mayankk.sharmaci@gmail.com**
 
