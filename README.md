@@ -24,7 +24,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/webp/gallery/5.jpg" alt="tableau" width="40" height="40"/>
+    <img src="[https://www.gstatic.com/webp/gallery/5.jpg](https://assets.stickpng.com/images/62e14245eb4d9a9dc054c181.png)" alt="tableau" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" width="40" height="40"/>
