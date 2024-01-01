@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="center">Goal is to turn raw data into information</h3>
-
-
+<p align="center">
+<img align="Center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <p align="center">
   <a href="https://linkedin.com/in/mayanksharma177" target="blank"><img align="center" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="mayanksharma177" height="30" width="120" /></a>
   <a href="https://github.com/your-github-username" target="blank"><img align="center" src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" height="33" width="120" /></a>
