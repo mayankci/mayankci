@@ -26,22 +26,32 @@
 
 <h3 align="left">Analytics:</h3>
  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/5e0632cec7067f42e3137dbabf5a86601c1e2ded8cab8452fb26f98a083c5b95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465" alt="powerbi" width="110" height="30"/>
   </a>
 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/83ae0d099431c4a77fc15f7f19c767cf76b0e9cb12f4348a6583c233e2826424/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d5461626c656175266c6f676f436f6c6f723d7768697465" alt="tableau" width="110" height="30"/>
   </a>
 
 <h3 align="left">Toolset: </h3>
 </a> 
-  <a href="https://www.mysql.com//" target="_blank" rel="noreferrer">
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/b26699b50f121ded46e4f9f975eb7f48a9eb43e81582986c4b98766592576c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="mysql" width="110" height="30"/>
+
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="" alt="tableau" width="110" height="30"/>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/6eca86d3f9f9e48719c4958f16f78d98197b34f8928976e7b4c241d906f08738/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" alt="Numpy" width="110" height="30"/>
   </a>
 
+</a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/4487725c400789fceb3e540abc5b7cabe5dee39b7e4c91e1e906fccd26416cbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" alt="Pandas" width="110" height="30"/>
+  </a>
+
+</a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/5afd5f007522c7ff5f670666998794d8bf7bf77808c1186a280c6d369a7fb732/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6174706c6f746c69622d3337374542383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174706c6f746c6962266c6f676f436f6c6f723d7768697465" alt="Matplotlib" width="110" height="30"/>
+  </a>
 
 </p>
