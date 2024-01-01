@@ -3,18 +3,13 @@
 
 
 <p align="left">
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=flat-square&logo=hackerrank" alt="HackerRank" />
-  </a>
-  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-orange?style=flat-square&logo=kaggle" alt="Kaggle" />
-  </a>
-</p
+<a href="https://linkedin.com/in/mayanksharma177" target="blank"><img align="center" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="mayanksharma177" height="30" width="30" /></a>
+</p>
 
-<h2>Profile</h2>
+
+
+
+<h2>1. Profile</h2>
 <p>I am Mayank Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment.</p>
 
 <h2>About Me</h2>
@@ -30,6 +25,7 @@
 
 <h3 align="left">Programming Skills:</h3>
 <p align="left"> 
+
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/bb64b34d04a01cfa79658e2704085740d88e209c21905d0f5b55ebc87a83aa3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="python" width="110" height="30"/>
   </a>
