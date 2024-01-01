@@ -11,7 +11,7 @@
 
 
 <h2>Profile</h2>
-<p>I am Mayank Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment.</p>
+<p>I am skilled in data-driven strategies and creative solutions for business empowerment.</p>
 
 <h2>About Me</h2>
 
