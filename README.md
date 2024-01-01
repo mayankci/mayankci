@@ -1,8 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="center">Goal is to turn raw data into information</h3>
 
-<h2>Profile</h2>
-<p>I am skilled in data-driven strategies and creative solutions for business empowerment.</p>
+
+<p align="left">
+  <a href="https://github.com/your-github-username" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30" />
+  </a>
+  <a href="https://hackerrank.com/your-hackerrank-username" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="30" />
+  </a>
+  <a href="https://kaggle.com/your-kaggle-username" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" />
+  </a>
+</p>
+
+
+
+
+<h2>1. Profile</h2>
+<p>I am Mayank Sharma. I am skilled in data-driven strategies and creative solutions for business empowerment.</p>
 
 <h2>About Me</h2>
 
