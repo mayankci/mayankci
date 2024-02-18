@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mayankk.sharmaci@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17x635tTmt4Fp7WPiYIKfzQYngdC09hra/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/17x635tTmt4Fp7WPiYIKfzQYngdC09hra/view?usp=drive_link](https://drive.google.com/file/d/1vOV1zRCMKQe3CNfG6mYpBJHzcvL_2oCq/view?usp=sharing))
 
 <h3 align="left">Programming Skills:</h3>
 <p align="left"> 
